@@ -3,7 +3,7 @@ BEATING THE NBA MONEYLINE MARKET
 1. Model & feature selection
 2. Calibrate the model
 3. K-Fold Cross Validation (10-30 Fold) for optimal wager threshold
-4. Model with optimal wager threshold parameter
+4. Model with selected features and wager threshold as a parameter
 
 
 GOAL
